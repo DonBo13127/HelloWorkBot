@@ -1,5 +1,5 @@
 requests
 beautifulsoup4
 lxml
-python-dateutil
 python-dotenv
+openai
