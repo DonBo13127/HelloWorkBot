@@ -1,0 +1,13 @@
+# upworkbot-ethical
+
+Scraper éthique et gratuit pour récupérer des offres publiques (exemple HelloWork).
+Respecte `robots.txt`, insère des délais aléatoires et sauvegarde les résultats en JSON.
+
+## Installation
+
+```bash
+git clone https://github.com/TON_UTILISATEUR/upworkbot-ethical.git
+cd upworkbot-ethical
+python -m venv venv
+source venv/bin/activate   # ou venv\Scripts\activate sur Windows
+pip install -r requirements.txt
